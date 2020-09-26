@@ -22,7 +22,6 @@ def transpose(matrix):
     return matrix_transpose
 
 
-print("Problem 6 Solution")
 print(transpose( [ [1,2], [3,4] ] ))
 print(transpose( [ [1,2,3,4], [5,6,7,8] ] ))
 
